@@ -4,7 +4,7 @@
   "description": "instrument code and throw if it ever touches an Element",
   "main": "nope.js",
   "scripts": {
-    "test": "jasmine-node test/"
+    "test": "karma start"
   },
   "repository": {
     "type": "git",
@@ -32,7 +32,7 @@
   "dependencies": {
     "browserify": "^5.10.0",
     "falafel": "^0.3.1",
-    "fn-body": "0.0.1",
-    "fn-params": "0.0.1"
+    "fn-body": "~0.0.1",
+    "fn-params": "~0.0.1"
   }
 }
