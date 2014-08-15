@@ -1,4 +1,4 @@
-# no elements for you [![Build Status](https://travis-ci.org/btford/no-elements-for-you.svg)](https://travis-ci.org/angular/btford/no-elements-for-you.js)
+# no elements for you [![Build Status](https://travis-ci.org/btford/no-elements-for-you.svg)](https://travis-ci.org/angular/btford/no-elements-for-you)
 
 Instrument code and throw if it ever touches an Element
 
